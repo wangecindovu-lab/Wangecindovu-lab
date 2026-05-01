@@ -12,5 +12,4 @@ I'm currently learning to integrate flatture and other frontend making tools int
 I'd be willing to collaborate on projects that open me up to the bigger projects and them that are geered towards solving serious issues facing the community, key areas of interest are, health, security in general, food security, housing, and the employment crisis curently facing most growing or developing cpountries.
 
 Ask me about Data Engineering, Data Analytics and Data Science
-- 📫 How to reach me: Email Wangecindovu@gmail.com twitter @Michael_Ndovu linkedin Public profile & URL
-www.linkedin.com/in/thomas-wangeci-065469194
+- 📫 How to reach me: Email Wangecindovu@gmail.com twitter[ @Michael_Ndovu](https://x.com/Michael_Ndovu) linkedin www.linkedin.com/in/thomas-wangeci-065469194
